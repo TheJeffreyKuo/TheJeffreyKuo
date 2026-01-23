@@ -14,6 +14,7 @@ I'm Jeff, a second-year computer science major at **Northeastern University**. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
+
 ---
 
 ### 🚀 Let's Connect!
