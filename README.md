@@ -14,3 +14,9 @@ I'm Jeff, a second-year computer science major at **Northeastern University**. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
+---
+
+### 🚀 Let's Connect!
+- **GitHub**: [github.com/TheJeffreyKuo](https://github.com/TheJeffreyKuo)
+- **LinkedIn**: [linkedin.com/in/chia-hao-kuo](https://www.linkedin.com/in/chia-hao-kuo/)
+- **Email**: kuo.chiah@northeastern.edu
