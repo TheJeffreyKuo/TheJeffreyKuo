@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Chia Hao (Jeff) Kuo
 
-I'm Jeff, a second-year computer science major at **Northeastern University**. I strive to learn and grow to build software that can create a meaningful impact on others. Currently serving as NERO Lead at @Northeastern-Electric-Racing, where I am leading development of the vehicle dashboard for our race car. I've been developing my skills in C++ and Qt, and I'm eager to keep expanding my skills through real-world experience. I'm currently seeking internship or co-op opportunities where I can contribute to meaningful projects, learn from experienced engineers, and grow as a developer.
+I'm Jeff, a second-year computer science major at **Northeastern University**. I strive to learn and grow to build software that can create a meaningful impact on others. Currently serving as NERO Lead at [Northeastern Electric Racing](https://github.com/Northeastern-Electric-Racing), where I am leading development of the vehicle dashboard for our race car. I've been developing my skills in C++ and Qt, and I'm eager to keep expanding my skills through real-world experience. I'm currently seeking internship or co-op opportunities where I can contribute to meaningful projects, learn from experienced engineers, and grow as a developer.
 
 ---
 
